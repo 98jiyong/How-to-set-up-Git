@@ -2,7 +2,8 @@
 깃을 설정하는 방법을 정리해놨습니다.
 
 > 명령어 정리 : https://beam-maru.tistory.com/116<br>
-> 마크다운 정리: https://abled.tistory.com/39<br>
+> 마크다운 정리 : https://abled.tistory.com/39<br>
+> 리드미 꾸미기 : https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/
 ---
 ![git_init](https://github.com/user-attachments/assets/b23c18f0-2db8-4467-84d2-610e995babe5)<br>
 * 설치하고자 하는 폴더에 <strong>`[git init]`</strong> 을 한 후 <strong>`[user.name]`</strong>과 <strong>`[user.email]`</strong>을 작성하기<br>
